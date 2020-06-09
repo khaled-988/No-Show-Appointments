@@ -2,9 +2,9 @@
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
 
 # Data Dictionary:
-**PatientId:** Identification of a patient.
-**AppointmentID:** Identification of each appointment.
-**Gender:** Male or Female .
+**PatientId:** Identification of a patient.  
+**AppointmentID:** Identification of each appointment.  
+**Gender:** Male or Female .  
 **ScheduledDay:** The day someone called or registered the appointment, this is before appointment of course.  
 **AppointmentDay:** The day of the actuall appointment, when they have to visit the doctor.  
 **Age:** How old is the patient.  
