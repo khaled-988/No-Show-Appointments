@@ -3,11 +3,11 @@ This dataset collects information from 100k medical appointments in Brazil and i
 
 # Data Dictionary:
 # PatientId:
-Identification of a patient.  
+Identification of a patient.
 # AppointmentID:
-Identification of each appointment.  
+Identification of each appointment.
 # Gender:
-Male or Female .  
+Male or Female .
 # ScheduledDay:
 The day someone called or registered the appointment, this is before appointment of course.  
 # AppointmentDay:
