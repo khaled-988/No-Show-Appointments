@@ -19,6 +19,6 @@ This dataset collects information from 100k medical appointments in Brazil and i
 
 Those questions I asked to analysis this dataset 
 # Questions:
-# 1/ What are the average of number show up and no show for each location ?
-# 2/ What is the percentage of handcap they show up and no show ?
-# 3/ What is average of those people receive sms and show up and no show ?
+## 1/ What are the average of number show up and no show for each location ?
+## 2/ What is the percentage of handcap they show up and no show ?
+## 3/ What is average of those people receive sms and show up and no show ?
